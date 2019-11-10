@@ -1,7 +1,7 @@
 """bater metadata module."""
 __name__ = "bater"
 __description__ = "Battery manager."
-__version__ = "0.1.0"
+__version__ = "0.0.0"
 __author__ = "myslak71"
 __author_email__ = "myslak@protonmail.com"
 __url__ = ""
